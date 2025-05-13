@@ -1,7 +1,3 @@
-Here's a professional and comprehensive `README.md` file for your student management website. You can copy this and place it in the root of your GitHub repository.
-
----
-
 ## 📘 Student Management Web Application
 
 A web-based system for managing student records, built using **React.js** and **Firebase (Firestore + Authentication)**. This application allows admins to add, view, edit, and delete student details, as well as manage user authentication securely.
@@ -57,8 +53,8 @@ Use the following credentials to log in:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/student-management-app.git
-   cd student-management-app
+   git clone https://github.com/YazhiniVenkatesan12/studentmanagement.git
+   cd studentmanagement
    ```
 
 2. **Install dependencies**:
@@ -99,16 +95,6 @@ student-management-app/
 ├── package.json
 └── README.md
 ```
-
----
-
-### ✅ To Do / Future Enhancements
-
-* 🔍 Search and filter students
-* 📥 Export student data as CSV
-* 📱 Mobile UI improvements
-* 📤 Upload student photos
-* 🧪 Add unit tests
 
 ---
 
